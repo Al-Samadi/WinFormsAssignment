@@ -1,0 +1,10 @@
+E:\Documents 2024\ملفات سطح المكتب\الجامعة\C#\1st App in CSharp\1st App in CSharp\bin\Debug\1st App in CSharp.exe.config
+E:\Documents 2024\ملفات سطح المكتب\الجامعة\C#\1st App in CSharp\1st App in CSharp\bin\Debug\1st App in CSharp.exe
+E:\Documents 2024\ملفات سطح المكتب\الجامعة\C#\1st App in CSharp\1st App in CSharp\bin\Debug\1st App in CSharp.pdb
+E:\Documents 2024\ملفات سطح المكتب\الجامعة\C#\1st App in CSharp\1st App in CSharp\obj\Debug\1st App in CSharp.csprojAssemblyReference.cache
+E:\Documents 2024\ملفات سطح المكتب\الجامعة\C#\1st App in CSharp\1st App in CSharp\obj\Debug\_1st_App_in_CSharp.Form1.resources
+E:\Documents 2024\ملفات سطح المكتب\الجامعة\C#\1st App in CSharp\1st App in CSharp\obj\Debug\_1st_App_in_CSharp.Properties.Resources.resources
+E:\Documents 2024\ملفات سطح المكتب\الجامعة\C#\1st App in CSharp\1st App in CSharp\obj\Debug\1st App in CSharp.csproj.GenerateResource.cache
+E:\Documents 2024\ملفات سطح المكتب\الجامعة\C#\1st App in CSharp\1st App in CSharp\obj\Debug\1st App in CSharp.csproj.CoreCompileInputs.cache
+E:\Documents 2024\ملفات سطح المكتب\الجامعة\C#\1st App in CSharp\1st App in CSharp\obj\Debug\1st App in CSharp.exe
+E:\Documents 2024\ملفات سطح المكتب\الجامعة\C#\1st App in CSharp\1st App in CSharp\obj\Debug\1st App in CSharp.pdb
